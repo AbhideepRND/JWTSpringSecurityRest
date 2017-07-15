@@ -1,0 +1,3 @@
+create table user_credential (username varchar(20), password varchar(20), roles varchar(20) )
+insert into USER_CREDENTIAL (USERNAME,PASSWORD, ROLES) values ('Admin', 'Admin', 'ADMIN:CLIENT:USER')
+insert into USER_CREDENTIAL values ('Sanjay','Sanjay','ROLE_ADMIN');

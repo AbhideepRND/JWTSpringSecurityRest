@@ -1,0 +1,48 @@
+URLS :- 
+	https://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/#authorize-requests
+	https://stackoverflow.com/questions/28124626/what-means-this-spring-security-diagram
+	http://www.baeldung.com/spring-security-session
+	http://stackoverflow.com/questions/34658534/spring-security-switch-to-ldap-authentication-and-database-authorities
+	http://www.journaldev.com/8718/spring-4-security-mvc-login-logout-example
+	http://www.journaldev.com/8748/spring-security-role-based-access-authorization-example
+	http://www.baeldung.com/spring-security-login
+	http://javainsimpleway.com/spring-security-using-custom-authentication-provider/
+	http://www.baeldung.com/spring-security-authentication-provider
+	http://stackoverflow.com/questions/34658534/spring-security-switch-to-ldap-authentication-and-database-authorities
+	http://docs.spring.io/spring-security/site/docs/4.0.3.RELEASE/reference/htmlsingle/#ldap
+	https://sdqali.in/blog/2016/06/28/injecting-dependencies-into-a-spring-configuration/
+	http://blog.netgloo.com/2014/08/17/use-mysql-database-in-a-spring-boot-web-application-through-hibernate/
+On perticular method
+	http://javabeat.net/separating-roles-and-permissions-in-spring-security/
+Spring Session management
+	http://websystique.com/spring-security-tutorial/
+	https://www.infoq.com/articles/Next-Generation-Session-Management-with-Spring-Session
+Spring Web Service
+	https://spring.io/guides/tutorials/bookmarks/
+Rest Service
+	http://www.baeldung.com/exception-handling-for-rest-with-spring
+	http://www.baeldung.com/spring-security-registration-i-forgot-my-password
+	http://www.baeldung.com/securing-a-restful-web-service-with-spring-security	
+	http://javabycode.com/spring-framework-tutorial/spring-security/secure-spring-rest-api-using-spring-security-oauth2-example.html
+	https://dzone.com/articles/secure-rest-services-using
+	https://github.com/imrabti/gwtp-spring-security
+	https://github.com/royclarkson/spring-rest-service-oauth
+	https://stackoverflow.com/questions/25794680/multiple-authentication-mechanisms-in-a-single-app-using-java-config
+	http://www.baeldung.com/securing-a-restful-web-service-with-spring-security#config
+	https://www.future-processing.pl/blog/exploring-spring-boot-and-spring-security-custom-token-based-authentication-of-rest-services-with-spring-security-and-pinch-of-spring-java-configuration-and-spring-integration-testing/
+	https://www.codesandnotes.be/2014/10/31/restful-authentication-using-spring-security-on-spring-boot-and-jquery-as-a-web-client/
+	http://websystique.com/spring-security/secure-spring-rest-api-using-basic-authentication/
+	https://dzone.com/articles/secure-rest-services-using
+	https://www.toptal.com/java/rest-security-with-jwt-spring-security-and-java
+	http://www.svlada.com/jwt-token-authentication-with-spring-boot/
+
+Points:-
+	1. Login with user credential and authorization.  ----  Done
+	2. Logout the user.   ----------  Done
+	3. Configure the authorization from resource file outside the project. -- Need to check.
+	4. CSRF attack prevention  --- Done
+	5. Session Fixation protection 
+	6. EnableGlobalMethodSecurity 
+	7. Password Encoding   -------------   
+	8. AccessDeniedHandler  --------------- Done
+	9. Auth 2.0  ---------------
