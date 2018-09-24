@@ -14,6 +14,6 @@ public class Constraint {
 	final public static String HTTP_HEADER_USER_REF="user-ref";
 	final public static String HTTP_HEADER_MACHINE="machine";
 	final public static String HTTP_HEADER_CONSUMER="consumer";
-	
+	final public static String HTTP_HEADER_TOKEN="X-Authorization";
 	
 }
